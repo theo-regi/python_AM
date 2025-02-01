@@ -1,0 +1,42 @@
+/* Streamlit Theme Customization */
+
+/* Background colors */
+body {
+    background-color: #FFFFFF; /* White */
+    color: #002060; /* Dark Blue */
+    font-family: "Arial", sans-serif;
+}
+
+/* Sidebar customization */
+.css-1lcbmhc.e1fqkh3o2 { /* Main sidebar container */
+    background-color: #EAEAEA; /* Light Gray */
+    color: #002060; /* Dark Blue */
+    border-right: 3px solid #002060;
+}
+
+.css-qri22k { /* Sidebar header */
+    color: #002060; /* Dark Blue */
+}
+
+/* Customize headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #002060; /* Dark Blue */
+}
+
+/* Button customization */
+.css-1n76uvr.e1ewe7hr3 { /* Button color */
+    background-color: #002060; /* Dauphine Blue */
+    color: #FFFFFF; /* White */
+    border: none;
+}
+.css-1n76uvr.e1ewe7hr3:hover { /* Button hover effect */
+    background-color: #004080; /* Slightly darker blue */
+}
+
+/* Footer (Optional, if used) */
+footer {
+    background-color: #002060; /* Dark Blue */
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+}
