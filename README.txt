@@ -14,3 +14,5 @@ To use the app, just download the project, put in a directory and launch the lau
 
 You might get some security troubles (based on anaconda manipulations and virtual environnements creations/set-up).
 Feel free to reach me out in case of troubles.
+
+Shared project with Lauren Cazal, Arthur Negre and Thomas Giraud-Liansot
